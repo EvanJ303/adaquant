@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Foundry build artifacts
+distributed/out/
+distributed/cache/
+
+# Soldeer packages
+distributed/dependencies
+
+# Foundry temporary broadcast data
+distributed/broadcast
