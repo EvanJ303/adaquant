@@ -5,6 +5,7 @@ version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi>=0.142.2",
+    "onnxruntime>=1.30.0",
     "torch>=2.14.1",
     "typer>=0.27.2",
     "web3>=8.0.0",
