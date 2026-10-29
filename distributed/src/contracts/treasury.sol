@@ -25,4 +25,3 @@ contract AdaquantGov is ERC20, ERC20Permit, ERC20Wrapper, ERC20Votes {
         return super.nonces(owner);
     }
 }
-
